@@ -1,0 +1,25 @@
+.row{
+    background-color: green;
+    padding: 150px;
+    margin: 9px;
+    display: flex;
+    font-size: 30px;
+    justify-content: space-between;
+    
+    
+}
+.column1{
+    background-color: blue;
+    
+    
+}
+.column2{
+    background-color: blue;
+    
+}
+.column3{
+    background-color: blue;
+    
+}
+
+
